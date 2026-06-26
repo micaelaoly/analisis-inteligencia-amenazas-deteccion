@@ -1,2 +1,2 @@
 # analisis-inteligencia-amenazas-deteccion
-Este repositorio consiste en el análisis sobre inteligencia de amenazas y detección en ciberseguridad, combinando la teoría de APTs, técnicas y tácticas de ataque basadas en MITRE ATT&amp;CK y su aplicación en escenarios reales.
+Repositorio de análisis de inteligencia de amenazas y detección en ciberseguridad basado en campañas APT y MITRE ATT&CK. Incluye análisis de informes, extracción de IOCs y TTPs, y su estudio para comprender actores y campañas. También incluye prácticas en entornos simulados con red team y blue team para detección y respuesta.
